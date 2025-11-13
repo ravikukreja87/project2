@@ -20,6 +20,7 @@ print(currentdate)
 print(type(currentdate))
 print(type(birth_date_2))
 answer=currentdate-birth_date_2
+print(f"You have your bithday in days",answer)
 z="Dia"
 print(z)
 Birthdate3=input("Enter your next birthdate ")
@@ -30,6 +31,7 @@ print(currentdate)
 print(type(currentdate))
 print(type(birth_date_3))
 answer=currentdate-birth_date_3
+print(f"You have your bithday in days",answer)
 a="Ravi"
 print(a)
 Birthdate4=input("Enter your next birthdate ")
@@ -40,6 +42,7 @@ print(currentdate)
 print(type(currentdate))
 print(type(birth_date_4))
 answer=currentdate-birth_date_4
+print(f"You have your bithday in days",answer)
 b="Sonakshi"
 print(b)
 Birthdate5=input("Enter your next birthdate ")
@@ -51,3 +54,4 @@ print(currentdate)
 print(type(currentdate))
 print(type(birth_date_5))
 answer=currentdate-birth_date_5
+print(f"You have your bithday in days",answer)
